@@ -1,0 +1,13 @@
+C:\Users\omerm\source\repos\OgrenciOtomasyonProjesi\OgrenciOtomasyonProjesi\bin\Debug\netcoreapp3.1\OgrenciOtomasyonProjesi.exe
+C:\Users\omerm\source\repos\OgrenciOtomasyonProjesi\OgrenciOtomasyonProjesi\bin\Debug\netcoreapp3.1\OgrenciOtomasyonProjesi.deps.json
+C:\Users\omerm\source\repos\OgrenciOtomasyonProjesi\OgrenciOtomasyonProjesi\bin\Debug\netcoreapp3.1\OgrenciOtomasyonProjesi.runtimeconfig.json
+C:\Users\omerm\source\repos\OgrenciOtomasyonProjesi\OgrenciOtomasyonProjesi\bin\Debug\netcoreapp3.1\OgrenciOtomasyonProjesi.runtimeconfig.dev.json
+C:\Users\omerm\source\repos\OgrenciOtomasyonProjesi\OgrenciOtomasyonProjesi\bin\Debug\netcoreapp3.1\OgrenciOtomasyonProjesi.dll
+C:\Users\omerm\source\repos\OgrenciOtomasyonProjesi\OgrenciOtomasyonProjesi\bin\Debug\netcoreapp3.1\OgrenciOtomasyonProjesi.pdb
+C:\Users\omerm\source\repos\OgrenciOtomasyonProjesi\OgrenciOtomasyonProjesi\obj\Debug\netcoreapp3.1\OgrenciOtomasyonProjesi.csprojAssemblyReference.cache
+C:\Users\omerm\source\repos\OgrenciOtomasyonProjesi\OgrenciOtomasyonProjesi\obj\Debug\netcoreapp3.1\OgrenciOtomasyonProjesi.csproj.CoreCompileInputs.cache
+C:\Users\omerm\source\repos\OgrenciOtomasyonProjesi\OgrenciOtomasyonProjesi\obj\Debug\netcoreapp3.1\OgrenciOtomasyonProjesi.AssemblyInfoInputs.cache
+C:\Users\omerm\source\repos\OgrenciOtomasyonProjesi\OgrenciOtomasyonProjesi\obj\Debug\netcoreapp3.1\OgrenciOtomasyonProjesi.AssemblyInfo.cs
+C:\Users\omerm\source\repos\OgrenciOtomasyonProjesi\OgrenciOtomasyonProjesi\obj\Debug\netcoreapp3.1\OgrenciOtomasyonProjesi.dll
+C:\Users\omerm\source\repos\OgrenciOtomasyonProjesi\OgrenciOtomasyonProjesi\obj\Debug\netcoreapp3.1\OgrenciOtomasyonProjesi.pdb
+C:\Users\omerm\source\repos\OgrenciOtomasyonProjesi\OgrenciOtomasyonProjesi\obj\Debug\netcoreapp3.1\OgrenciOtomasyonProjesi.genruntimeconfig.cache
