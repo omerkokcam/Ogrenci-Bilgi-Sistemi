@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omerm\\source\\repos\\OgrenciOtomasyonProjesi\\OgrenciOtomasyonProjesi\\OgrenciOtomasyonProjesi.csproj": {}
+    "C:\\Users\\omerm\\OneDrive\\Belgeler\\GitHub\\Ogrenci-Bilgi-Sistemi\\OgrenciOtomasyonProjesi\\OgrenciOtomasyonProjesi\\OgrenciOtomasyonProjesi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omerm\\source\\repos\\OgrenciOtomasyonProjesi\\OgrenciOtomasyonProjesi\\OgrenciOtomasyonProjesi.csproj": {
+    "C:\\Users\\omerm\\OneDrive\\Belgeler\\GitHub\\Ogrenci-Bilgi-Sistemi\\OgrenciOtomasyonProjesi\\OgrenciOtomasyonProjesi\\OgrenciOtomasyonProjesi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omerm\\source\\repos\\OgrenciOtomasyonProjesi\\OgrenciOtomasyonProjesi\\OgrenciOtomasyonProjesi.csproj",
+        "projectUniqueName": "C:\\Users\\omerm\\OneDrive\\Belgeler\\GitHub\\Ogrenci-Bilgi-Sistemi\\OgrenciOtomasyonProjesi\\OgrenciOtomasyonProjesi\\OgrenciOtomasyonProjesi.csproj",
         "projectName": "OgrenciOtomasyonProjesi",
-        "projectPath": "C:\\Users\\omerm\\source\\repos\\OgrenciOtomasyonProjesi\\OgrenciOtomasyonProjesi\\OgrenciOtomasyonProjesi.csproj",
+        "projectPath": "C:\\Users\\omerm\\OneDrive\\Belgeler\\GitHub\\Ogrenci-Bilgi-Sistemi\\OgrenciOtomasyonProjesi\\OgrenciOtomasyonProjesi\\OgrenciOtomasyonProjesi.csproj",
         "packagesPath": "C:\\Users\\omerm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omerm\\source\\repos\\OgrenciOtomasyonProjesi\\OgrenciOtomasyonProjesi\\obj\\",
+        "outputPath": "C:\\Users\\omerm\\OneDrive\\Belgeler\\GitHub\\Ogrenci-Bilgi-Sistemi\\OgrenciOtomasyonProjesi\\OgrenciOtomasyonProjesi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omerm\\AppData\\Roaming\\NuGet\\NuGet.Config",
