@@ -238,13 +238,20 @@ namespace OgrenciOtomasyonProjesi
             string filePath = "C:\\Users\\omerm\\OneDrive\\Desktop\\C#Dersleri\\OgrenciOtomasyonProjesiDosyaları\\OgrenciBilgileri.txt";
             string[] students = File.ReadAllLines(filePath);
             int studentsLength = students.Length;
-            double programmingLessonGrades = 0;
-            for(int i = 0; i <studentsLength; i++)
+            if(studentsLength > 0)
             {
-                string[] lineByLineData = students[i].Split(",");
-                programmingLessonGrades += Convert.ToDouble(lineByLineData[4]); 
+                double programmingLessonGrades = 0;
+                for(int i = 0; i <studentsLength; i++)
+                {
+                    string[] lineByLineData = students[i].Split(",");
+                    programmingLessonGrades += Convert.ToDouble(lineByLineData[4]); 
+                }
+                Console.WriteLine("The average of students programming course is " + programmingLessonGrades / studentsLength );
             }
-            Console.WriteLine("The average of students programming course is " + programmingLessonGrades / studentsLength );
+            else
+            {
+                Console.WriteLine("Currently there are no registered students.");
+            }
         }
     }
 }
